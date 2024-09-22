@@ -125,3 +125,8 @@ div.main {
   float: left;
   margin: 10px;
 }
+
+footer {
+  background-color: gray;
+  height: 50px;
+}
